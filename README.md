@@ -1,1 +1,8 @@
-# ChurnPrediction
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+matplotlib
+joblib
